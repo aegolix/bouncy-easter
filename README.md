@@ -1,2 +1,2 @@
 # bouncy-easter
-Animated the rabbit, Moai's eyes and some flying birdies
+Animated rabbit, Moai's eyes and parallax scrolling for mountains, roads and clouds
